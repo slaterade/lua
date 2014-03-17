@@ -1,7 +1,7 @@
 Lua
 ===
 
-This is Lua 5.2.2, released on 21 Mar 2013.
+This is Lua 5.2.3, released on 11 Nov 2013.
 
 Installation Instructions
 -------------------------
